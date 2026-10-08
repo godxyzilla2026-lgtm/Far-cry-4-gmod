@@ -1,0 +1,6 @@
+{
+  "title": "Kyrat Sandbox Bridge",
+  "type": "ServerContent",
+  "tags": ["fun", "scenic"],
+  "ignore": ["*.psd", "*.blend", "tests/*", "build/*"]
+}
